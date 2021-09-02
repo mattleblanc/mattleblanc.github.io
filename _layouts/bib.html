@@ -5,7 +5,7 @@
   <div class="col-sm-2 abbr">
   {% if entry.abbr %}
     {% if site.data.venues[entry.abbr] %}
-    <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a></abbr>
+    <mabbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a></abbr>
     {% else %}
     <abbr class="badge">{{entry.abbr}}</abbr>
     {% endif %}
@@ -16,7 +16,7 @@
     {% if entry.type == "thesis" %}
       {{reference}}
     {% else %}
-      <div class="title">{{entry.title}}</div>
+      <div class="title"><i>{{entry.title}}</i>.</div>
       <div class="author">
         {% for author in entry.author_array %}
           {% assign author_is_self = false %}
@@ -65,32 +65,60 @@
             {% endunless %}
           {% endif %}
         {% endfor %}
-      </div>
 
-      <div class="periodical">
       {% if entry.type == "article" %}
-        <em>{{entry.journal}}</em>
+        <em>{{entry.journal}}</em> {{entry.volume }}
+        {% if entry.year %}
+          ({{entry.year}})
+        {% endif %}
+        {% if entry.number %}
+          {{entry.number}},
+        {% endif %}
+        {% if entry.pages %}
+	  {{entry.pages}}.
+        {% endif %}
+        {% if entry.doi %}
+          <br><a href="https://doi.org/{{ entry.doi }}">{{ entry.doi }}</a>.
+        {% endif %}
       {% elsif entry.type == "inproceedings" %}
-        <em>In {{entry.booktitle}}</em>
-      {% endif %}
-      {% if entry.year %}
-        {{entry.year}}
-      {% endif %}
-      </div>
+        <em>In {{entry.booktitle}}</em>.
+     {% elsif entry.type == "talk" %}
+        {{entry.note}}
+     {% endif %}
+     {% if entry.type == "note" %}
+        {{entry.id}}.
+     {% endif %}
+	
     {% endif %}
-
+    </div>
+    
     <div class="links">
     {% if entry.abstract %}
       <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
     {% endif %}
-    {% if entry.arxiv %}
-      <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
+    {% if entry.eprint %}
+      <a href="http://arxiv.org/abs/{{ entry.eprint }}" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="ai ai ai-arxiv-square ai-2x"></i> arXiv</a>
+    {% endif %}
+    {% if entry.inspire %}
+      <a href="https://inspirehep.net/literature/{{ entry.inspire }}" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="ai ai ai-inspire-square ai-2x"></i> inspire-hep</a>
+    {% endif %}
+    {% if entry.hepdata %}
+      <a href="https://www.hepdata.net/record/{{ entry.hepdata }}" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="ai ai ai-open-data-square ai-2x"></i> hepdata</a>
+    {% endif %}
+    {% if entry.plots %}
+      <a href="{{ entry.plots }}" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-images"></i> figures</a>
     {% endif %}
     {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
     {% endif %}
     {% if entry.html %}
       <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button" target="_blank">HTML</a>
+    {% endif %}
+    {% if entry.briefing %}
+      <a href="{{entry.briefing}}" class="bibtex btn btn-sm z-depth-0" role="button"><i class="far fa-newspaper"></i> Briefing</a>
+    {% endif %}
+    {% if entry.courier %}
+      <a href="{{entry.courier}}" class="bibtex btn btn-sm z-depth-0" role="button"><i class="far fa-newspaper"></i> CERN Courier</a>
     {% endif %}
     {% if entry.pdf %}
       {% if entry.pdf contains '://' %}
@@ -110,7 +138,10 @@
       <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Blog</a>
     {% endif %}
     {% if entry.code %}
-      <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
+      <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-terminal"></i> Code</a>
+    {% endif %}
+    {% if entry.rivet %}
+      <a href="{{ entry.rivet }}" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-terminal"></i> Rivet</a>
     {% endif %}
     {% if entry.poster %}
       {% if entry.poster contains '://' %}

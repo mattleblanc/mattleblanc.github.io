@@ -8,6 +8,7 @@
 $red-color:           #FF3636 !default;
 $red-color-dark:      #B71C1C !default;
 $orange-color:        #F29105 !default;
+$cern-color:          #0033A0 !default;
 $blue-color:          #0076df !default;
 $blue-color-dark:     #00369f !default;
 $cyan-color:          #2698BA !default;
@@ -33,6 +34,11 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light:     rgba($purple-color, 0.05);
-$code-bg-color-dark:      #2c3237 !default;
+$code-bg-color-light:      #0F4C81 !default;
+$code-bg-color-dark:       #0F4C81 !default;
 
+$prelim-color-light:             #5F4B8B !default;
+$prelim-color-dark:                #5F4B8B !default;
+
+$talk-color-light:               #FF6F61 !default;
+$talk-color-dark:                  #FF6F61 !default;
