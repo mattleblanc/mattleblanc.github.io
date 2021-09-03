@@ -47,7 +47,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: mattleblanc # your GitHub user name
-gitlab_username: # your GitLab user name
+gitlab_username: mleblanc # your GitLab user name
 twitter_username: TopPhysicist # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
@@ -133,7 +133,7 @@ keep_files:
 # Plug-ins
 plugins:
   - jekyll-email-protect
-  - jekyll-github-metadata
+  - jekyll-gitlab-metadata
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll/scholar
@@ -142,7 +142,7 @@ plugins:
   - jemoji
 
 # Extras
-github: [metadata]
+gitlab: [metadata]
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
