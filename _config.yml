@@ -132,6 +132,7 @@ keep_files:
 
 # Plug-ins
 plugins:
+  - kramdown-parser-gfm
   - jekyll-email-protect
   - jekyll-gitlab-metadata
   - jekyll-feed
