@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <p>Hi! I'm a research fellow at CERN, the European Laboratory for Nuclear Research. I'm a member of the CERN ATLAS Team,
-and the subgroup convener of the ATLAS Jet & Photon Physics subgroup. I am also part of a small team characterizing prototype, radiation-hard monolithic pixel sensors for applications at the HL-LHC and in other future experimental facilities.</p>
+and the subgroup convener of the ATLAS Jet & Photon Physics subgroup. I am also part of a small team characterizing prototype, radiation-hard monolithic pixel sensors for applications at the HL-LHC and in other future experiments.</p>
 
 <p>My research is currently focused on making precision measurements of the strong force ('quantum chromodynamics,' or QCD) in LHC data to further our understanding of the Standard Model. I do this by studying hadronic jets of particles and their internal energy density distributions ('jet substructure'). Our limited understanding of QCD leads to large uncertainties in physics analyses, including those related to the Higgs boson and top quark. Furthering our understanding of QCD ensures that we're doing the most precise science possible at the LHC.</p>
 
