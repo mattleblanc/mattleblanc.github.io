@@ -18,9 +18,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <p>Hi! I'm a research fellow at CERN, the European Laboratory for Nuclear Research. I'm a member of the CERN ATLAS Team,
-and the subgroup convener of the ATLAS Jet & Photon Physics subgroup. I also work as part of a team characterizing prototype, radiation-hard monolithic pixel sensors for applications at the HL-LHC and in other future experimental facilities.</p>
+and the subgroup convener of the ATLAS Jet & Photon Physics subgroup. I am also part of a small team characterizing prototype, radiation-hard monolithic pixel sensors for applications at the HL-LHC and in other future experimental facilities.</p>
 
-<p>My research is currently focused on making precision measurements of the strong force ('quantum chromodynamics,' or QCD) in LHC data which can further our understanding of the Standard Model. To do this, I study hadronic jets of particles and their internal energy density distributions ('jet substructure'). Our limited understanding of QCD leads to large uncertainties in physics analyses of other sectors of the Standard Model, including those related to the Higgs boson and top quark. Furthering our understanding of QCD ensures that we're doing the most precise science possible at the LHC.</p>
+<p>My research is currently focused on making precision measurements of the strong force ('quantum chromodynamics,' or QCD) in LHC data to further our understanding of the Standard Model. I do this by studying hadronic jets of particles and their internal energy density distributions ('jet substructure'). Our limited understanding of QCD leads to large uncertainties in physics analyses, including those related to the Higgs boson and top quark. Furthering our understanding of QCD ensures that we're doing the most precise science possible at the LHC.</p>
 
 <p>Previously, I made contributions to searches for new particles in the ATLAS data. I was also the subgroup convener of the ATLAS Jet Energy Scale & Resolution, and the ATLAS Jet Definitions & MC Calibration subgroups. During that time, I helped coordinate the production of the <i>in situ</i> jet calibrations for small- and large-radius jets used by ATLAS. I also helped to develop new jet reconstruction algorithms which will improve our substructure performance for Run 3 of the LHC.</p>
 
