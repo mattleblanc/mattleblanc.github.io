@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Senior Research Fellow, <a href="https://home.cern/">CERN</a> <a href="https://atlas.cern/">ATLAS</a> Team.
+description: Senior Research Fellow, <a href="https://home.cern/">CERN</a> <a href="https://atlas.cern/">ATLAS</a> Team. <a href=""><i>Curriculum vitae</i></a>.
 
 profile:
   align: right
