@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Senior Research Fellow, <a href="https://home.cern/">CERN</a> <a href="https://atlas.cern/">ATLAS</a> Team. <a href=""><i>Curriculum vitae</i></a>.
+description: Senior Research Fellow, <a href="https://home.cern/">CERN</a> <a href="https://atlas.cern/">ATLAS</a> Team. <a href="https://mleblanc.web.cern.ch/MLB_CV.pdf"><i>Curriculum vitae</i></a>.
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
     <p>161/R-022</p>
     <p>CERN, CH 1211</p>
 
-news: false  # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -32,7 +32,7 @@ and the subgroup convener of the ATLAS Jet & Photon Physics subgroup. I am also 
 
 <i class="fas fa-microscope"></i>&#8195;Jet substructure measurements.
 
-<i class="fas fa-bullseye"></i>&#8195;Searches for new particles.
+<i class="fas fa-search"></i>&#8195;Searches for new particles.
 
 <h4>Appointments</h4>
 
