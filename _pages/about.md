@@ -41,7 +41,7 @@ social: true  # includes social icons at the bottom of the page
 
 <p><i class="far fa-comments"></i>&#8195;BOOST International Advisory Committee</p>
 
-<p><i class="fas fa-globe"></i><a href="https://atlas.physicsmasterclasses.org/en/index.htm">IPPOG ATLAS MasterClass Panellist</a></p>
+<p><i class="fas fa-globe"></i>&#8195;<a href="https://atlas.physicsmasterclasses.org/en/index.htm">IPPOG ATLAS MasterClass Panellist</a></p>
 
 <br>
 
