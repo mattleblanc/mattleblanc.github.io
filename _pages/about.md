@@ -34,9 +34,9 @@ social: true  # includes social icons at the bottom of the page
 
 <i class="fas fa-ruler-combined"></i>&#8195;ATLAS Jet Energy Scale and Resolution Subgroup Convener (prev.)
 
-<h4> Awards </h4>
+<p><h4> Awards </h4></p>
 
-<i class="fas fa-award"></i>&#8195;2022	<a href="https://cteq.gitlab.io/post/">Wu-Ki Tung Award</a> for Early-Career Research on QCD
+<p><i class="fas fa-award"></i>&#8195;2022 <a href="https://cteq.gitlab.io/post/">Wu-Ki Tung Award</a> for Early-Career Research on QCD</p>
 
 <p>Hi! I'm a research fellow at CERN, the European Laboratory for Nuclear Research. I'm a member of the CERN ATLAS Team, and am presently a convener of the ATLAS Jet/EtMiss Combined Performance Group.</p>
 
