@@ -25,6 +25,7 @@ social: true  # includes social icons at the bottom of the page
 
 <p><i class="fas fa-microchip"></i>&#8195;Characterisation of prototype, radiation-hard CMOS pixel sensors.</p>
 
+<br>
 <p><h4>Appointments</h4></p>
 
 <p><i class="fas fa-project-diagram"></i>&#8195;ATLAS Jet/EtMiss Combined Peformance Group Convener</p>
@@ -35,6 +36,7 @@ social: true  # includes social icons at the bottom of the page
 
 <p><i class="fas fa-ruler-combined"></i>&#8195;ATLAS Jet Energy Scale and Resolution Subgroup Convener (prev.)</p>
 
+<br>
 <p><h4> Awards, service and outreach </h4></p>
 
 <p><i class="fas fa-award"></i>&#8195;2022 <a href="https://cteq.gitlab.io/post/">Wu-Ki Tung Award</a> for Early-Career Research on QCD</p>
