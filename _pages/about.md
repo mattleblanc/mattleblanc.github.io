@@ -35,9 +35,13 @@ social: true  # includes social icons at the bottom of the page
 
 <p><i class="fas fa-ruler-combined"></i>&#8195;ATLAS Jet Energy Scale and Resolution Subgroup Convener (prev.)</p>
 
-<p><h4> Awards </h4></p>
+<p><h4> Awards, service and outreach </h4></p>
 
 <p><i class="fas fa-award"></i>&#8195;2022 <a href="https://cteq.gitlab.io/post/">Wu-Ki Tung Award</a> for Early-Career Research on QCD</p>
+
+<p><i class="far fa-comments"></i>&#8195;BOOST International Advisory Committee</p>
+
+<p><i class="fas fa-globe"></i></p><a href="https://atlas.physicsmasterclasses.org/en/index.htm">IPPOG ATLAS MasterClass Panellist</a></p>
 
 <br>
 
