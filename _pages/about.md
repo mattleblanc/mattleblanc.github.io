@@ -34,7 +34,7 @@ social: true  # includes social icons at the bottom of the page
 
 <h4>Appointments</h4>
 
-<i class="fa-solid fa-diagram-project"></i>&#8195;ATLAS Jet/EtMiss Combined Peformance Group Convener
+<i class="fa-solid fa-diagram-project"></i>&#8195;ATLAS Jet/EtMiss Combined Peformance Group Convener
 
 <i class="fas fa-lightbulb"></i>&#8195;ATLAS Jet and Photon Physics Subgroup Convener (prev.)
 
