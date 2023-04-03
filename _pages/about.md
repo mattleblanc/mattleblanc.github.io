@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-description: Research Fellow, <a href="https://home.cern/">CERN</a> <a href="https://atlas.cern/">ATLAS</a> Team. <a href="https://mleblanc.web.cern.ch/MLB_CV.pdf"><i>Curriculum vitae</i></a>.
+description: Postdoctoral Research Associate, <a href="https://www.manchester.ac.uk/">the University of Manchester</a> <a href="https://atlas.cern/">ATLAS</a> Team. <a href="https://mleblanc.web.cern.ch/MLB_CV.pdf"><i>Curriculum vitae</i></a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>EP-ADE-TK</p>
-    <p>161/R-022</p>
-    <p>CERN, CH 1211</p>
+    <p>CERN</p>
+    <p>Meyrin 1211</p>
+    <p>Switzerland</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -48,7 +48,7 @@ social: true  # includes social icons at the bottom of the page
 
 <br>
 
-<p>Hi! I'm a research fellow at CERN, the European Laboratory for Nuclear Research. I'm a member of the CERN ATLAS Team, and am presently a convener of the ATLAS Jet/EtMiss Combined Performance Group.</p>
+<p>Hi! I'm a postdoctoral research associate with the University of Manchester. I'm based at CERN, the European Laboratory for Nuclear Research. I'm a member of the ATLAS Collaboration, and am presently a convener of the ATLAS Jet/EtMiss Combined Performance Group.</p>
 
 <p>The strong force is everywhere at the LHC, and understanding it better means that we can learn more about the Standard Model and what lies beyond from the LHC data. My research focuses on making precision measurements of hadronic 'jets' of particles and their internal 'substructure.' These measurements are compared to cutting-edge theoretical calculations, and used as reference datasets in the development of Monte Carlo simulations and Parton Shower algorithms used everywhere in collider physics.</p>
 
