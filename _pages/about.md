@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Postdoctoral Research Associate, <a href="https://www.manchester.ac.uk/">the University of Manchester</a> <a href="https://atlas.cern/">ATLAS</a> Team. <a href="https://mleblanc.web.cern.ch/MLB_CV.pdf"><i>Curriculum vitae</i></a>.
+description: Postdoctoral Research Associate, <a href="https://www.manchester.ac.uk/">the University of Manchester</a> <a href="https://atlas.cern/">ATLAS</a> Group. <a href="https://mleblanc.web.cern.ch/MLB_CV.pdf"><br><i>Curriculum vitae</i></a>.
 
 profile:
   align: right
