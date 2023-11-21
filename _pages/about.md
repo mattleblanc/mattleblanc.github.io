@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://research.manchester.ac.uk/en/persons/matthew-leblanc'>University of Manchester</a> Postdoctoral Research Associate. <br> <a href="https://mleblanc.web.cern.ch/MLB_CV.pdf">CV</a>.
+subtitle: Postdoctoral Research Associate at the <a href='https://research.manchester.ac.uk/en/persons/matthew-leblanc'>University of Manchester</a>. <br> <h2><a href="https://mleblanc.web.cern.ch/MLB_CV.pdf">CV</a></h2>.
 
 profile:
   align: right
