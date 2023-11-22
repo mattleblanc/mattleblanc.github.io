@@ -11,9 +11,9 @@
 - title: Affiliation
   type: time_table
   contents:
-	- title: Assistant Professor (Research)
-	  institution: Brown University
-	  year: 2024+
+    - title: Assistant Professor (Research)
+      institution: Brown University <br> Providence, Rhode Island, USA
+      year: 2024+
 
 - title: Education
   type: time_table
@@ -23,11 +23,6 @@
       year: 2017
       description:
         - Experimental Particle Physics
-      #  - Description 2.
-      #  - title: Description 3.
-      #    contents:
-      #      - Sub-description 1.
-      #      - Sub-description 2.
     - title: B.Sc. (H.)
       institution: Acadia University <br> Wolfville, Nova Scotia, Canada
       year: 2011
