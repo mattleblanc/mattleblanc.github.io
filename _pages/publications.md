@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: publications and preliminary results
 description: Under construction!
 nav: true
 nav_order: 1
