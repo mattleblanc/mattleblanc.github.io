@@ -9,6 +9,6 @@ nav_order: 1
 <!-- _pages/presentations.md -->
 <div class="presentations">
 
-<!-- {% bibliography -f {{ site.scholar.bibliography }} %} -->
+{% bibliography -f {{ site.scholar.bibliography }} -q @[talk=true] %}
 
 </div>
