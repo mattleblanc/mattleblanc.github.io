@@ -6,7 +6,14 @@
     - name: Date of Birth
       value: 6 October 1989
     - name: Languages
-      value: English, French
+      value: English, French (B2)
+
+- title: Affiliation
+  type: time_table
+  contents:
+	- title: Assistant Professor (Research)
+	  institution: Brown University
+	  year: 2024+
 
 - title: Education
   type: time_table
@@ -28,7 +35,7 @@
         - Physics
         - Mathematics and Statistics
 
-- title: Experience
+- title: Prior Experience
   type: time_table
   contents:
     - title: Postdoctoral Research Associate
@@ -50,14 +57,14 @@
       items: 
         - Wu Ki Tung Award for Early-Career Research in QCD <br> CTEQ Collaboration
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1.
+#      items: 
+#        - Description 1.
+#        - Description 2.
+#    - title: Topic 2.
+#      items:
+#        - Description 1.
+#        - Description 2.
