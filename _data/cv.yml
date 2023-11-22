@@ -11,22 +11,22 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Victoria, Victoria, British Columbia, Canada
+    - title: Ph. D.
+      institution: University of Victoria <br> Victoria, British Columbia, Canada
       year: 2017
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Experimental Particle Physics
+      #  - Description 2.
+      #  - title: Description 3.
+      #    contents:
+      #      - Sub-description 1.
+      #      - Sub-description 2.
+    - title: B.Sc. (H.)
+      institution: Acadia University <br> Wolfville, Nova Scotia, Canada
+      year: 2011
       description:
-        - Description 1.
-        - Description 2.
+        - Physics
+        - Mathematics and Statistics
 
 - title: Experience
   type: time_table
