@@ -298,6 +298,12 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
+<<<<<<< HEAD
+=======
+
+  last_name: [LeBlanc]
+  first_name: [Matt]
+>>>>>>> 39479a7 (Trying to update publications now)
 
   last_name: [LeBlanc]
   first_name: [Matt]
@@ -359,8 +365,13 @@ enable_publication_badges:
 #  ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
+<<<<<<< HEAD
 max_author_limit: 5 # leave blank to always show all authors
 more_authors_animation_delay: 5 # more authors are revealed on click using animation; smaller delay means faster animation
+=======
+max_author_limit:  # leave blank to always show all authors
+more_authors_animation_delay:  # more authors are revealed on click using animation; smaller delay means faster animation
+>>>>>>> 39479a7 (Trying to update publications now)
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
 enable_publication_thumbnails: true
