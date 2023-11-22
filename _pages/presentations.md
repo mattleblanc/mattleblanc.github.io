@@ -4,10 +4,10 @@ permalink: /presentations/
 title: presentations
 description: Under construction!
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 <!-- _pages/presentations.md -->
-<div class="presentations">
+<div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} --query @*[paper=false] %}
 
