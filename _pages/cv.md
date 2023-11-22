@@ -5,6 +5,6 @@ title: cv
 nav: true
 nav_order: 4
 cv_pdf: MLB_CV.pdf
-description: 
+description: Last updated: Xxxx
   sidebar: left
 ---
