@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: 
+title: publications and preliminary results
+description:
 nav: true
 nav_order: 2
 ---
