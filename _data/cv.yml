@@ -8,7 +8,7 @@
     - name: Languages
       value: English, French (B2)
 
-- title: Affiliation
+- title: Affiliations
   type: time_table
   contents:
     - title: Assistant Professor (Research)
@@ -16,23 +16,21 @@
       year: 2024+
       description:
         - Center for the Fundamental Physics of the Universe (CFPU)
+	
     - title: Postdoctoral Research Associate
-      institution: University of Manchester
+      institution: University of Manchester <br> Manchester, United Kingdom
       year: 2023
       description:
         - Particle Physics Group (ATLAS)
-
-- title: Prior Experience
-  type: time_table
-  contents:
+	
     - title: Senior Research Fellow
-      institution: CERN
+      institution: Conseil européen pour la Recherche nucléaire (CERN)
       year: 2021-2023
       description:
         - CERN ATLAS Team
 
     - title: Postdoctoral Research Associate
-      institution: University of Arizona
+      institution: University of Arizona <br> Tucson, Arizona, USA
       year: 2017-2020
       description:
         - ATLAS Group
