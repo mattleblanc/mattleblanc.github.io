@@ -16,5 +16,6 @@ nav_order: 2
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} --query @*[paper=true] %}
+<!-- {% bibliography -f {{ site.scholar.bibliography }} -q @[paper=true] %} -->
 
 </div>
