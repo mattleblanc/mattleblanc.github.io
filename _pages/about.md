@@ -15,9 +15,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p>Member of the ATLAS Collaboration from 2010-Present (signing author, 2015-Present).</p>
+<p>Member of the ATLAS Collaboration from 2010-Present <br> (signing author, 2015-Present)</p>
 <br>
-<p>Differential jet and jet substructure measurements.</p>
-<p>Hadronic object reconstruction & calibration; boosted object tagging.</p>
-<p>Searches for new particles, particularly in hadronic final states.</p>
-<p>(prev.) Characterisation of prototype, radiation-hard CMOS pixel sensors.</p>
+<ul>
+<li>Differential jet and jet substructure measurements.</li>
+<li>Hadronic object reconstruction & calibration; boosted object tagging.</li>
+<li>Searches for new particles, particularly in hadronic final states.</li>
+<li>(prev.) Characterisation of prototype, radiation-hard CMOS pixel sensors.</li>
+</ul>
