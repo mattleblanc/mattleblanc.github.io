@@ -8,7 +8,7 @@
     - name: Languages
       value: English (Native), French (B2)
 
-- title: Affiliations
+- title: Positions
   type: time_table
   contents:
     - title: Assistant Professor (Research)
@@ -22,10 +22,6 @@
       year: 2023
       description:
         - Particle Physics Group (ATLAS)
-
-- title: Past Experience
-  type: time_table
-  contents:
     - title: Senior Research Fellow
       institution: Conseil européen pour la Recherche nucléaire (CERN) <br> Geneva, Switzerland
       year: 2021-2023
@@ -36,6 +32,22 @@
       year: 2017-2020
       description:
         - ATLAS Group
+
+- title: Appointments in International Collaborations
+  type: time_table
+  contents:
+    - title: Group Convener, Jet/EtMiss Combined Performance
+      institution: ATLAS Collaboration
+      year: 2022-2023
+    - title: Subgroup convener, Standard Model Jet & Photon Physics
+      institution: ATLAS Collaboration
+      year: 2020-2022
+    - title: Subgroup convener,	Jet/EtMiss Definitions & MC Calibrations
+      institution: ATLAS Collaboration
+      year: 2019-2020
+    - title: Subgroup convener,	Jet/EtMiss Jet Energy Scale & Resolution
+      institution: ATLAS Collaboration
+      year: 2018-2019
 
 - title: Education
   type: time_table
