@@ -33,7 +33,7 @@
       description:
         - ATLAS Group
 
-- title: Appointments in International Collaborations
+- title: Appointments
   type: time_table
   contents:
     - title: Group Convener, Jet/EtMiss Combined Performance
