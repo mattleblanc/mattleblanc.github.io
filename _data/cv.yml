@@ -1,12 +1,22 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Matt LeBlanc
-    - name: Date of Birth
-      value: 6 October 1989
     - name: Languages
       value: English (Native), French (B2)
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Differential jet and jet substructure measurements
+      items: test
+    - title: Hadronic object reconstruction & calibration; boosted object tagging
+      items:
+    - title: Searches for new particles, particularly in hadronic final states
+      items:
+    - title: (prev.) Characterisation of prototype, radiation-hard CMOS pixel sensors.
+      items: 
 
 - title: Positions
   type: time_table
@@ -20,18 +30,12 @@
     - title: Postdoctoral Research Associate
       institution: University of Manchester <br> Manchester, United Kingdom
       year: 2023
-      description:
-        - Particle Physics Group (ATLAS)
     - title: Senior Research Fellow
       institution: Conseil européen pour la Recherche nucléaire (CERN) <br> Geneva, Switzerland
       year: 2021-2023
-      description:
-        - CERN ATLAS Team
     - title: Postdoctoral Research Associate
       institution: University of Arizona <br> Tucson, Arizona, USA
       year: 2017-2020
-      description:
-        - ATLAS Group
 
 - title: Appointments
   type: time_table
@@ -69,7 +73,7 @@
   contents:
     - year: 2022
       items: 
-        - Wu Ki Tung Award for Early-Career Research in QCD <br> CTEQ Collaboration
+        - Wu-Ki Tung Award for Early-Career Research in QCD <br> CTEQ Collaboration
 
 #- title: Academic Interests
 #  type: nested_list
