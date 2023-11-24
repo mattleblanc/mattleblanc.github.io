@@ -2,7 +2,7 @@
 layout: page
 permalink: /presentations/
 title: presentations
-description: Under construction!
+description: 
 nav: true
 nav_order: 3
 ---

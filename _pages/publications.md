@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications and preliminary results
-description: Under construction!
+description: 
 nav: true
 nav_order: 2
 ---
