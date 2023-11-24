@@ -6,18 +6,6 @@
     - name: Languages
       value: English (Native), French (B2)
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Differential jet and jet substructure measurements
-      items: test
-    - title: Hadronic object reconstruction & calibration; boosted object tagging
-      items:
-    - title: Searches for new particles, particularly in hadronic final states
-      items:
-    - title: (prev.) Characterisation of prototype, radiation-hard CMOS pixel sensors.
-      items: 
-
 - title: Positions
   type: time_table
   contents:
