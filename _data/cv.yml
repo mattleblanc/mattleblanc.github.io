@@ -63,21 +63,24 @@
       year: 2022
       items: 
         - CTEQ Collaboration
-    - year: 2014-2017
+    - title: Postgraduate Scholarship - Doctoral
+      year: 2014-2017
       items:
-        - Postgraduate Scholarship - Doctoral <br> NSERC
-    - year: 2012-2017
+        - NSERC
+    - title: President’s Research Scholarship
+      year: 2012-2017
       items:
-        - President’s Research Scholarship <br> University of Victoria
-    - year: 2012-2013
+        - University of Victoria
+    - title: Alexander Graham Bell Canada Graduate Scholarship
+      year: 2012-2013
       items:
-        - Alexander Graham Bell Canada Graduate Scholarship <br> NSERC
-    - year: 2011-2012
+        -  NSERC
+    - title: University of Victoria Fellowship
+      year: 2011-2012
+    - title: Student Award - Atlantic Region
+      year: 2010
       items:
-        - University of Victoria Fellowship
-    - year: 2010
-      items:
-        - Summer Student Award - Atlantic Region <br> TRIUMF
+        - TRIUMF
 
 #- title: Academic Interests
 #  type: nested_list
