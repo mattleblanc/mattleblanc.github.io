@@ -53,16 +53,15 @@
   type: time_table
   contents:
     - title: Ph. D.
-      institution: University of Victoria <br> Victoria, British Columbia, Canada
+      institution: University of Victoria
+      location: Victoria, British Columbia, Canada
+      department: Experimental Particle Physics
       year: 2017
-      description:
-        - Experimental Particle Physics
     - title: B.Sc. (H.)
-      institution: Acadia University <br> Wolfville, Nova Scotia, Canada
+      institution: Acadia University
+      location: Wolfville, Nova Scotia, Canada
+      department: Physics; Mathematics & Statistics
       year: 2011
-      description:
-        - Physics
-        - Mathematics and Statistics
 
 - title: Awards and Honours
   type: time_table
