@@ -66,28 +66,22 @@
   contents:
     - title: Wu-Ki Tung Award for Early-Career Research in QCD
       year: 2022
-      items: 
-        - CTEQ Collaboration
+      department:  CTEQ Collaboration
     - title: Postgraduate Scholarship - Doctoral
       year: 2014-2017
-      items:
-        - NSERC
+      department:  NSERC
     - title: President’s Research Scholarship
       year: 2012-2017
-      items:
-        - University of Victoria
+      institution: University of Victoria
     - title: Alexander Graham Bell Canada Graduate Scholarship
       year: 2012-2013
-      items:
-        -  NSERC
+      department: NSERC
     - title: University of Victoria Fellowship
       year: 2011-2012
-      items:
-        - Univeristy of Victoria
+      institution: Univeristy of Victoria
     - title: Student Award - Atlantic Region
       year: 2010
-      items:
-        - TRIUMF
+      institution: TRIUMF
 
 #- title: Academic Interests
 #  type: nested_list
