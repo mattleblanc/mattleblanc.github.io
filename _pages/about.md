@@ -17,9 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 <p>Member of the ATLAS Collaboration from 2010-Present <br> (signing author, 2015-Present)</p>
 <br>
-<ul>
-<li>Differential jet and jet substructure measurements.</li>
-<li>Hadronic object reconstruction & calibration; boosted object tagging.</li>
-<li>Searches for new particles, particularly in hadronic final states.</li>
-<li>(prev.) Characterisation of prototype, radiation-hard CMOS pixel sensors.</li>
-</ul>
+<p><i class="fas fa-microscope iconinstitution"></i> Differential jet and jet substructure measurements.</p>
+<p><i class="fas fa-screwdriver-wrench iconinstitution"></i> Hadronic object reconstruction & calibration; boosted object tagging.</p>
+<p><i class="fas fa-magnifying-glass iconinstitution"></i> Searches for new particles, particularly in hadronic final states.</p>
+<p><i class="fas fa-microchip iconinstitution"></i>(prev.) Characterisation of prototype, radiation-hard CMOS pixel sensors.</p>
