@@ -29,13 +29,19 @@
             {% if content.title %}
             <h6 class="title font-weight-bold ml-1 ml-md-4">{{content.title}}</h6>
             {% endif %}
-            {% if content.location or content.department or content.institution%}
+            {% if content.location or content.department or content.institution or content.collaboration%}
             <table class="table-cv ml-1 ml-md-4 institution">
               <tbody>		
               {% if content.institution %}
               <tr>
                 <td style="vertical-align: top; text-align: center;" class="institution"><i class="fas fa-university iconinstitution"></i></td>
                 <td class="institution">{{content.institution}}</td>
+              </tr>
+              {% endif %}
+	      {% if content.collaboration %}
+              <tr>
+                <td style="vertical-align: top; text-align: center;" class="institution"> <i class="fas fa-people-group iconcollaboration"></i> </td>
+                <td class="institution">{{content.collaboration}}</td>
               </tr>
               {% endif %}
               {% if content.location %}
