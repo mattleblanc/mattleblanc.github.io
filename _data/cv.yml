@@ -30,20 +30,20 @@
       location: Tucson, Arizona, USA
       year: 2017-2020
 
-- title: Appointments
+- title: ATLAS Collaboration
   type: time_table
   contents:
-    - title: Group Convener, Jet/EtMiss Combined Performance
-      institution: ATLAS Collaboration
+    - title: Jet/EtMiss Combined Performance Group
+      department: Group Convener
       year: 2022-2023
-    - title: Subgroup convener, Standard Model Jet & Photon Physics
-      institution: ATLAS Collaboration
+    - title: Standard Model Jet & Photon Physics Subgroup
+      department: Subgroup Convener
       year: 2020-2022
-    - title: Subgroup convener, Definitions & MC Calibrations
-      institution: ATLAS Collaboration
+    - title: Jet/EtMiss Jet Definitions & MC Calibrations Subgroup
+      deparmtment: Subgroup Convener
       year: 2019-2020
-    - title: Subgroup convener, Jet Energy Scale & Resolution
-      institution: ATLAS Collaboration
+    - title: Jet/EtMiss Jet Energy Scale & Resolution Subgroup
+      department: Subgroup Convener
       year: 2018-2019
 
 - title: Education
