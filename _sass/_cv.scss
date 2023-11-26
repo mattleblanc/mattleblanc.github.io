@@ -44,7 +44,8 @@ p.location {
 
 i.iconlocation {
   color: var(--global-theme-color);
-  font-size: 0.8rem;
+  font-size: 0.95rem;
+  margin-right: 0.3rem;  
 }
 
 i.iconinstitution {
@@ -55,7 +56,19 @@ i.iconinstitution {
 
 i.icondepartment {
   color: var(--global-theme-color);
-  font-size: 0.8rem;
+  font-size: 0.95rem;
+  margin-right: 0.3rem;
+}
+
+i.iconcollaboration {
+  color: var(--global-theme-color);
+  font-size: 0.95rem;
+  margin-right: 0.3rem;
+}
+
+i.iconcanada {
+  color: var(--global-theme-color);
+  font-size: 0.95rem;
   margin-right: 0.3rem;
 }
 
