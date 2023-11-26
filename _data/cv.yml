@@ -10,21 +10,26 @@
   type: time_table
   contents:
     - title: Assistant Professor (Research)
-      institution: Brown University <br> Providence, Rhode Island, USA
+      institution: Brown University
       department: Department of Physics
+      location: Providence, Rhode Island, USA
       year: 2024+
       description:
         - Center for the Fundamental Physics of the Universe	
     - title: Postdoctoral Research Associate
-      institution: University of Manchester <br> Manchester, United Kingdom
+      institution: University of Manchester
+      department: Department of Physics
+      location: Manchester, United Kingdom
       year: 2023
     - title: Research Fellow
-      institution: CERN <br> Geneva, Switzerland
-      department: Experimental Physics Department (EP)
+      institution: CERN
+      department: Experimental Physics Department
+      location: Geneva, Switzerland
       year: 2021-2023
     - title: Postdoctoral Research Associate
-      institution: University of Arizona <br> Tucson, Arizona, USA
+      institution: University of Arizona
       department: Department of Physics
+      location: Tucson, Arizona, USA
       year: 2017-2020
 
 - title: Appointments
