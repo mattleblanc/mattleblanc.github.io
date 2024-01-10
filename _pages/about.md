@@ -11,9 +11,6 @@ profile:
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
----
 
 <p>Member of the <a href="https://cms.cern/">CMS Collaboration</a>, 2024-Present</p>
 <p>Member of the <a href="https://atlas.cern/">ATLAS Collaboration</a> from 2010-2023 <br> (signing author, 2015-Present)</p>
