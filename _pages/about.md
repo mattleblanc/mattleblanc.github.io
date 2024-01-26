@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Research Associate at the <a href='https://research.manchester.ac.uk/en/persons/matthew-leblanc'>University of Manchester</a>.
+subtitle: Assistant Professor of Physics (research) at <a href='https://www.brown.edu/academics/physics/'>Brown University</a>.
 
 profile:
   align: right
@@ -15,7 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p>Member of the ATLAS Collaboration from 2010-Present <br> (signing author, 2015-Present)</p>
+<p>Member of the CMS Collaboration from 2024-Present</p>
+<p>Member of the ATLAS Collaboration from 2010-2023 <br> (signing author, 2015-Present)</p>
 <br>
 <p><i class="fas fa-microscope iconinstitution"></i> Differential jet and jet substructure measurements.</p>
 <p><i class="fas fa-screwdriver-wrench iconinstitution"></i> Hadronic object reconstruction & calibration; boosted object tagging.</p>
