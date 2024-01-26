@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: Assistant Professor of Physics (research) at <a href='https://www.brown.edu/academics/physics/'>Brown University</a>.
-#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
