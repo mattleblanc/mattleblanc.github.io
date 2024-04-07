@@ -67,6 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
+acm_id: # your dl.acm.org/profile/id
 blogger_url: # your blogger URL
 bluesky_url: # your bluesky URL
 github_username: mattleblanc # your GitHub user name
@@ -89,6 +90,9 @@ scopus_id: # your profile on Scopus
 flickr_id: # your flickr id
 blogger_url: # your blogger URL
 work_url: # work page URL
+ieee_id: # your ieeexplore.ieee.org/author/id
+instagram_id: # your instagram id
+kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
