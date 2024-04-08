@@ -15,8 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p>Member of the CMS Collaboration from 2024-Present</p>
-<p>Member of the ATLAS Collaboration from 2010-2023 <br> (signing author, 2015-Present)</p>
+<p>Member of the <a href="https://cms.cern/">CMS Collaboration</a>, 2024-Present</p>
+<p>Member of the <a href="https://atlas.cern/">ATLAS Collaboration</a> from 2010-2023 <br> (signing author, 2015-Present)</p>
 <br>
 <p><i class="fas fa-microscope iconinstitution"></i> Differential jet and jet substructure measurements.</p>
 <p><i class="fas fa-screwdriver-wrench iconinstitution"></i> Hadronic object reconstruction & calibration; boosted object tagging.</p>
