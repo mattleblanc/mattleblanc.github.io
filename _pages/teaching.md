@@ -25,6 +25,6 @@ This page contains resources for aspiring physicists, particularly for those who
 
 # Communicating results
 
-* It's helpful to understand the best ways to communicate data. A good starting place for this is the classic: [E. Tufte, _The Visual Display of Quantitative Information_](https://www.edwardtufte.com/tufte/books_vdqi) _-- I have a copy in my office you can borrow._
+* It's helpful to understand the best ways to communicate using data. This can be different, depending on the dataset and what aspects of it you're hoping to convey.  A good starting place for this is the classic: [E. Tufte, 'The Visual Display of Quantitative Information'](https://www.edwardtufte.com/tufte/books_vdqi) _-- I have a copy in my office you can borrow._
 
-* An interesting article about giving mathematics lectures: [P.R. Halmos, _How to talk Mathematics_](https://web.archive.org/web/20150409210822/https://www.math.northwestern.edu/graduate/Forum/HALMOS.html).
+* An interesting article about planning and giving mathematics lectures, containing good lessons also for certain kinds of conference talks, seminars, etc.: [P. R. Halmos, _How to talk Mathematics_](https://web.archive.org/web/20150409210822/https://www.math.northwestern.edu/graduate/Forum/HALMOS.html).
