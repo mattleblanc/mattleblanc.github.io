@@ -30,6 +30,20 @@
       location: Tucson, Arizona, USA
       year: 2017-2020
 
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph. D.
+      institution: University of Victoria
+      location: Victoria, British Columbia, Canada
+      department: Experimental Particle Physics
+      year: 2017
+    - title: B.Sc. (H.)
+      institution: Acadia University
+      location: Wolfville, Nova Scotia, Canada
+      department: Physics; Mathematics & Statistics
+      year: 2011
+
 - title: Appointments
   type: time_table
   contents:
@@ -53,20 +67,6 @@
       collaboration: ATLAS Collaboration
       department: Subgroup Convener
       year: 2018-2019
-
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph. D.
-      institution: University of Victoria
-      location: Victoria, British Columbia, Canada
-      department: Experimental Particle Physics
-      year: 2017
-    - title: B.Sc. (H.)
-      institution: Acadia University
-      location: Wolfville, Nova Scotia, Canada
-      department: Physics; Mathematics & Statistics
-      year: 2011
 
 - title: Service and Outreach
   type: time_table
