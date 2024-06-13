@@ -71,33 +71,21 @@
 - title: Service and Outreach
   type: time_table
   contents:
+    - title: Executive Committee Member
+      department: US LHC Users Association Executive Committee
+      year: 2024-
     - title: Associate Editor
       department: Frontiers in Big Data	and AI in High-Energy Physics
       year: 2023-
     - title: International Advisory Committee
       department: BOOST Conference Series
       year: 2022-
-    - title: Experimental Convener, WG1 -- "Min. Bias, Underlying Event & MC Generators"
-      department: 14th International Workshop on Multi-Parton Interactions at the LHC (MPI@LHC 2023)
-      year: 2023
-    - title: Organising Committee
-      department: BOOST 2021
-      year: 2021
     - title: Videoconference Moderator
       department: IPPOG / QuarkNet Physics Masterclasses
       year: 2020-2023
-    - title: Organising Committee
-      department: ATLAS Hadronic Calibration Workshop
-      year: 2018, 2019,<br>2021, 2023
     - title: Peer Referee
       department: PRL, EPJC, JHEP, NST
       year: 2021-
-    - title: Guide, Emily Carr School of Art & Design Artists-In-Residence Visits
-      department: TRIUMF
-      year: 2014-2015
-    - title: Volunteer Public Tour Guide
-      department: TRIUMF
-      year: 2013-2015
 
     
 - title: Awards and Honours
@@ -113,9 +101,6 @@
     - title: Alexander Graham Bell Canada Graduate Scholarship
       year: 2012-2013
       canada: Natural Sciences and Engineering Research Council of Canada (NSERC)
-    - title: University of Victoria Fellowship
-      year: 2011-2012
-      institution: Univeristy of Victoria
     - title: IPP Summer Student Fellowship
       year: 2010
       canada: Institute of Particle Physics
