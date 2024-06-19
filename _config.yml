@@ -255,6 +255,7 @@ plugins:
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
+  - jekyll-regex-replace
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-tabs
@@ -336,7 +337,6 @@ enable_publication_badges:
   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
-<<<<<<< HEAD
 #filtered_bibtex_keywords: [abbr, abstract, additional_info, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
 #filtered_bibtex_keywords:
 #  [abbr, abstract, additional_info, altmetric, arxiv, award, award_name, bibtex_show, blog, code, html, pdf, poster, preview, selected, slides, supp, video, website]
