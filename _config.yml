@@ -165,7 +165,6 @@ newsletter:
   enabled: false
   endpoint: # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/YOUR-ENDPOINT)
   # https://loops.so/docs/forms/custom-form
-=======
 #external_sources:
 #  - name: medium.com
 #    rss_url: https://medium.com/@al-folio/feed
@@ -331,35 +330,7 @@ enable_publication_badges:
   inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
-<<<<<<< HEAD
-#filtered_bibtex_keywords:
-#  [
-#    abbr,
-#    abstract,
-#    additional_info,
-#    altmetric,
-#    annotation,
-#    arxiv,
-#    award,
-#    award_name,
-#    bibtex_show,
-#    blog,
-#    code,
-#    google_scholar_id,
-#    html,
-#    inspirehep_id,
-#    pdf,
-#    poster,
-#    preview,
-#    selected,
-#    slides,
-#    supp,
-#    video,
-#    website,
-#  ]
-=======
 #filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
->>>>>>> feb0e57 (can you add links like this?)
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: 5 # leave blank to always show all authors
@@ -414,7 +385,6 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Optional Features
 # -----------------------------------------------------------------------------
 
-<<<<<<< HEAD
 enable_google_analytics:    true  # enables google analytics
 enable_cronitor_analytics: false  # enables cronitor RUM analytics
 enable_google_verification: false  # enables google site verification
@@ -427,25 +397,8 @@ enable_navbar_social:       false  # enables displaying social links in the navb
 enable_project_categories:  true   # enables categorization of projects into multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
-=======
 enable_pirsch_analytics: false # enables Pirsch analytics (https://pirsch.io/)
->>>>>>> d2250a1 (Add analytics)
 enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
-enable_google_analytics:    true  # enables google analytics
-enable_cronitor_analytics: false  # enables cronitor RUM analytics
-enable_google_verification: false  # enables google site verification
-enable_bing_verification:   false  # enables bing site verification
-enable_masonry:             true   # enables automatic project cards arrangement
-enable_math:                true   # enables math typesetting (uses MathJax)
-enable_tooltips:            false  # enables automatic tooltip links generated
-                                   # for each section titles on pages and posts
-enable_darkmode:            true   # enables switching between light/dark modes
-enable_navbar_social:       false  # enables displaying social links in the
-                                   # navbar on the about page
-enable_project_categories:  true   # enables categorization of projects into
-                                   # multiple categories
-enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
-enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
 
 # -----------------------------------------------------------------------------
 # Library versions
