@@ -350,9 +350,31 @@ enable_publication_badges:
   inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
-#filtered_bibtex_keywords: [abbr, abstract, additional_info, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
 #filtered_bibtex_keywords:
-#  [abbr, abstract, additional_info, altmetric, arxiv, award, award_name, bibtex_show, blog, code, html, pdf, poster, preview, selected, slides, supp, video, website]
+#  [
+#    abbr,
+#    abstract,
+#    additional_info,
+#    altmetric,
+#    annotation,
+#    arxiv,
+#    award,
+#    award_name,
+#    bibtex_show,
+#    blog,
+#    code,
+#    google_scholar_id,
+#    html,
+#    inspirehep_id,
+#    pdf,
+#    poster,
+#    preview,
+#    selected,
+#    slides,
+#    supp,
+#    video,
+#    website,
+#  ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: 5 # leave blank to always show all authors
