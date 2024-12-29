@@ -89,8 +89,6 @@ publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
 scopus_id: # your profile on Scopus
-flickr_id: # your flickr id
-blogger_url: # your blogger URL
 work_url: # work page URL
 bluesky_url: topphysicist.bsky.social # your bluesky URL
 dblp_url: # your DBLP profile url
